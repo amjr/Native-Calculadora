@@ -4,4 +4,4 @@
 adb --version
 emulator -version
 emulator -list-avds
-emulator -avd Nexus_5X_APO_29_x86
+emulator -avd Nexus_5X_API_29_x86
