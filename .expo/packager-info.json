@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 4391,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
-  "webpackServerPort": null
+  "packagerPid": 4094,
+  "expoServerNgrokUrl": "https://9z-x43.anonymous.native-calculadora.exp.direct",
+  "packagerNgrokUrl": "https://packager.9z-x43.anonymous.native-calculadora.exp.direct",
+  "ngrokPid": 4111,
+  "webpackServerPort": 19006
 }
